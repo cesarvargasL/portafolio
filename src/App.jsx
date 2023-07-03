@@ -35,6 +35,7 @@ const siteProps = {
   youTube: "",
 };
 
+//const text_namecolor = "#FFFFFF";
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
 
@@ -49,5 +50,7 @@ const App = () => {
     </div>
   );
 };
+
+//ttpo
 
 export default App;
