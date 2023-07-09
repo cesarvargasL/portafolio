@@ -29,7 +29,7 @@ const siteProps = {
   email: "cesarvargaslezano@outlook.com",
   gitHub: "cesarvargasL",
   instagram: "htx_cxsar",
-  linkedIn: "César Luis Vargas Lezano",
+  linkedIn: "césar-luis-vargas-lezano-041731268",
   medium: "",
   twitter: "",
   youTube: "",
