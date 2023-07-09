@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "cesarvargaslezano@outlook.com",
     gitHub: "cesarvargasL",
     instagram: "htx_cxsar",
-    linkedIn: "C\xe9sar Luis Vargas Lezano",
+    linkedIn: "c\xe9sar-luis-vargas-lezano-041731268",
     medium: "",
     twitter: "",
     youTube: ""
@@ -27190,7 +27190,7 @@ const imageAltText = "purple and blue abstract background";
  * passionate about, or enjoy,
  */ const skillsList = [
     "Web design",
-    "User experience",
+    "User experience ",
     "learning linux and data networks",
     "learning docker management",
     "knowledge in version control git, github",
