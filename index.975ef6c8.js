@@ -27190,7 +27190,7 @@ const imageAltText = "purple and blue abstract background";
  * passionate about, or enjoy,
  */ const skillsList = [
     "Web design",
-    "User experience ",
+    "User experience",
     "learning linux and data networks",
     "learning docker management",
     "knowledge in version control git, github",
