@@ -28,7 +28,7 @@ const siteProps = {
   title: "Developer and student of enginer systems",
   email: "cesarvargaslezano@outlook.com",
   gitHub: "cesarvargasL",
-  instagram: "htx_cxsar",
+  instagram: "cesar.luis.vargas",
   linkedIn: "césar-luis-vargas-lezano-041731268",
   medium: "",
   twitter: "",

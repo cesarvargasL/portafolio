@@ -37,10 +37,10 @@ const projectList = [
     url: "https://drive.google.com/drive/folders/1QkwwN27g8jWbhg3eAk1G3pl_wrHeQSXq?usp=sharing",
   },
   {
-    title: "Static web page for a national company (non-professional)",
+    title: "This is a web application for a physiotherapy office",
     description:
-      "I made this small static web page for a university assignment I don't profit from this, it was only done for practice purposes 🥛",
-    url: "https://github.com/cesarvargasL/Pagina-web-pil.git",
+      "Practice for a physiotherapy office using PHP,HTML,CSS 🏥",
+    url: "https://github.com/cesarvargasL/Consultorio-Fisioterapia-.git",
   },
   {
     title: "video recorded in a class taught by me",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://drive.google.com/file/d/1TkQCrfFHEmwef_oPWQdk_J1ueFtBAqwJ/view?usp=sharing",
   },
   {
-    title: "Participation in the Microsoft Data Month Challenge",
+    title: "This is a static website for a coffee shop",
     description:
-      "I did the complete workshop learning github concepts like this 🐈‍⬛🐙",
-    url: "https://github.com/cesarvargasL/mes_datos.git.",
+      "Static website for coffee shop using CSS and HTML 🐈‍⬛🐙",
+    url: "https://github.com/cesarvargasL/WebSiteCoffeeShop.git",
   },
 ];
 
